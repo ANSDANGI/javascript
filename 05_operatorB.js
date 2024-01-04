@@ -11,6 +11,8 @@ function greaterNumber(){
 
 
 }greaterNumber();
+
+
 console.log("=======+=====");
 function isEvenOrOddNum(){
     var a=29;
@@ -28,6 +30,9 @@ function isEvenOrOddNum(){
 
 }isEvenOrOddNum();
 console.log("=========+=============");
+
+
+
 function wordLength(){
       
     var s1="JavaScript";
