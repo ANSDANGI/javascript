@@ -30,3 +30,15 @@ console.log("==============================step=======================");
     
 //    }
 // }oddPositonedChars("Hard work always pays back");
+function oddPositonedChars(char) {
+    for (let i = 0; i < char.length; i++) {
+        if(i%2!=0 && char!=""){
+            console.log(char.charAt(i)+"");
+        }
+        
+        
+    }
+    
+}oddPositonedChars("Hard work always pays back");
+console.log("=====================");
+oddPositonedChars("Soon I will be UI IT Champ");
