@@ -11,7 +11,7 @@
 //    console.log("i know jenny likes me she is very intelligent");
 // }
 // let a=100;
-// jenny(a);
+// // jenny(a);
 // jenny(bill);
 // let greet=function(){
 //     console.log("hey good morning");
